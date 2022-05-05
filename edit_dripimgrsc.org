@@ -18,7 +18,7 @@
   <title>Тег IMG</title>
  </head>
  <body> 
-  <p><a href="lorem.html"><img src="images/photo?.png" 
+  <p><a href='lorem.html"><img src="images/photo?.png" 
   width="189" height="255" alt="lorem"></a>
   Lorem ipsum dolor sit amet...</p>
 <?xml version="1.0" encoding="UTF-8" ?>
